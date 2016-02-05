@@ -1,10 +1,16 @@
 ### Index
 
+* [Golang](#golang)
 * [Java](#java)
 * [Javascript](#javascript)
 * [Node.js](#nodejs)
 * [Ruby](#ruby)
 * [Webpack](#webpack)
+
+
+### Golang
+
+* [Podcast] - [GolangShow](https://golangshow.com)
 
 
 ### Java
@@ -20,7 +26,7 @@
 
 ### Node.js
 
-* [Screencast] - [Скринкаст Node.JS - Илья Кантор](https://learn.javascript.ru/nodejs-screencast/)
+* [Screencast] - [Скринкаст Node.JS - Илья Кантор](https://learn.javascript.ru/screencast/nodejs)
 
 
 ### Ruby
@@ -31,4 +37,4 @@
 
 ### Webpack
 
-* [Screencast] - [Скринкаст Webpack - Илья Кантор](https://learn.javascript.ru/webpack-screencast/)
+* [Screencast] - [Скринкаст Webpack - Илья Кантор](https://learn.javascript.ru/screencast/webpack)
