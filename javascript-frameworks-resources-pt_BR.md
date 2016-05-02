@@ -1,3 +1,11 @@
+### Vue.js
+
+* [Adicionar Bootstrap e Font-awesome no projeto criado com o Vue Cli](http://www.vedovelli.com.br/frontend/adicionar-bootstrap-e-font-awesome-no-projeto-criado-com-o-vue-cli/)
+* [Documentação pt-BR](http://vuejs-br.github.io/vuejs.org/)
+* [Série de vídeos sobre Vue.js](http://www.vedcasts.com.br/series/vuejs)
+* [VueJS: Filtro para criar URL’s amigáveis](http://carlosgartner.com.br/vuejs-filtro-para-criar-urls-amigaveis/)
+
+
 ### Angular.js
 
 * [Criando uma aplicação simples com AngularJS](http://tableless.com.br/criando-uma-aplicacao-simples-com-angularjs/)
@@ -35,6 +43,7 @@
 
 * [Grunt - Por onde começar](http://www.voltsdigital.com.br/labs/gruntjs-por-onde-comecar/)
 * [Grunt - Voce deveria estar usando](http://tableless.com.br/grunt-voce-deveria-estar-usando/)
+* [Grunt | Automatizando tarefas](http://woliveiras.com.br/posts/grunt-automatizando-tarefas/)
 
 
 ### jQuery
@@ -60,9 +69,11 @@
 
 ### Node.js
 
+* [Corrigindo as permissões de usuário para o NPM no Linux](http://woliveiras.com.br/posts/corrigindo-permissoes-de-usuario-linux-npm/)
 * [Node.js para Leigos](http://udgwebdev.com/nodejs/)
 * [Primeiros passos com Node.js](http://tableless.com.br/o-que-nodejs-primeiros-passos-com-node-js/)
 * [Raspagem de dados com Node.js](http://tableless.com.br/raspagem-de-dados-com-node-js/)
+* [Utilizando versões antigas do Nodejs - Funciona no Windows](http://woliveiras.com.br/posts/utilizando-versoes-antigas-do-nodejs/)
 
 
 ### React
